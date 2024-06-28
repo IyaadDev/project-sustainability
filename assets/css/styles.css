@@ -1,0 +1,17 @@
+.hero {
+  background: url("../../assets/img/background-flipped.webp?h=22d7cb157e0c9713dcdb1025d9e4818a")!important;
+}
+
+.cardy {
+  text-decoration: none!important;
+}
+
+.hover {
+  /*margin: 0 auto;*/
+  transition: transform .1s;
+}
+
+.hover:hover {
+  transform: scale(1.15);
+}
+
